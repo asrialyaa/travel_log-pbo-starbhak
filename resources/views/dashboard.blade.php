@@ -40,11 +40,11 @@
                 <td scope="col">15</td> 
               </tr> 
               <tr class="text-dark"> 
-                <td scope="col">3</td>
-                <td scope="col">20-03-2014</td>
-                <td scope="col">12.00</td>
-                <td scope="col">Bekasi</td>
-                <td scope="col">60</td> 
+                <td scope="col">4</td>
+                <td scope="col">21-02-2015</td>
+                <td scope="col">12.30</td>
+                <td scope="col">Depok</td>
+                <td scope="col">70</td> 
               </tr> 
               <button type="button" class="btn btn-primary mt-3" style="margin-left:8%">Tambah</button>
             </tbody>      
