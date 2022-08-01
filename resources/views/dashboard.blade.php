@@ -39,6 +39,13 @@
                 <td scope="col">Bandung</td>
                 <td scope="col">15</td> 
               </tr> 
+              <tr class="text-dark"> 
+                <td scope="col">3</td>
+                <td scope="col">20-03-2014</td>
+                <td scope="col">12.00</td>
+                <td scope="col">Bekasi</td>
+                <td scope="col">60</td> 
+              </tr> 
               <button type="button" class="btn btn-primary mt-3" style="margin-left:8%">Tambah</button>
             </tbody>      
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
